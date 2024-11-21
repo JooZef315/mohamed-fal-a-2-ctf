@@ -16,7 +16,7 @@ Welcome to the Hidden Flag Challenge! Your goal is to decrypt a hidden message f
 ### Hint:
 
 - The key to decrypting the flag is a well-known phrase: **"{x} is forever champion."**  
-  (Where **x** is my favorite football team, which is hinted at in this [sign language](https://www.youtube.com/watch?v=eeaOR5KOliI&t=5s) video.)
+  (Where **x** is my favorite football team, which is hinted at in this **video.mp4** video
 
 - Once you find the football team, you will need to base64-encode the phrase, and then use that encoded string as the key to decrypt the flag.
 
